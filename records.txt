@@ -1,0 +1,8 @@
+ahmad,202110,shebli,1/18/24,Officer,end
+omar,77667,dabouq,1/11/22,Convict,end
+khaled,5754,bnaiat,1/5/22,Visitor,end
+waleed,34555,zarqa,4/21/20,Convict,end
+jameel,93759,dead sea,4/21/20,Officer,end
+majd,2000032,marj al hamam,3/25/20,Convict,end
+saif,2004773,madaba,5/31/07,Visitor,end
+david ,887548,khaldi,5/16/36,Officer,end
